@@ -3,5 +3,6 @@
   "api": "00000000-0000-0000-0000-000000000002",
   "tid": "10000001",
   "vrc": "11111111",
-  "image": "https://raw.githubusercontent.com/gorkemduman/test/main/test.png"
+  "image": "https://raw.githubusercontent.com/gorkemduman/test/main/test.png",
+  "locale": "en"
 }]
